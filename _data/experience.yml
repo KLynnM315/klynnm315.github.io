@@ -9,13 +9,13 @@
 - company: M &amp; T Bank
   position: Enterprise Data Consultant I
   duration: 2016 &mdash; 2020
-  summary: Reverse engineered a legacy datamart and developed and mantained a solution for reporting the progress. <ul class="resume-item-list"><li>Maintain lineage and documentation on migration of a legacy system to Hadoop for about 5,000 data elements for bank-wide EPIC Marketing Project.</li><li>Team member of both on Agile Sprint and Kanban teams with a goal of reverse engineering legacy SAS system and assist in mapping of data elements into views in the new Hadoop environment.</li><li>Created Python script for automated SQL testing for SIT and UAT testing.  Automated Testing script was adapted by development team and expanded on.</li></ul>
+  summary: Reverse engineered a legacy datamart and mantained a solution for reporting the progress. <ul class="resume-item-list"><li>Maintain lineage and documentation on migration of a legacy system to Hadoop for about 5,000 data elements for bank-wide EPIC Marketing Project.</li><li>Team member of both on Agile Sprint and Kanban teams with a goal of reverse engineering legacy SAS system and assist in mapping of data elements into views in the new Hadoop environment.</li><li>Created Python script for automated SQL testing for SIT and UAT testing.  Automated Testing script was adapted by development team and expanded on.</li></ul>
 
 # Citi
 - company: Citi
   position: MIS Analyst 2 (Officer)
   duration: 2009 &mdash; 2016
-  summary: Consult and develop for software system conversion projects, modify Access databases per ticket requests, analysis and optimize programmatic processes, provide production support to remote users, on call occasionally on weekends/holidays for critical process support and conversion testing.
+  summary: Consult and developed for software system conversion projects, modify Access databases per ticket requests, analysis and optimize programmatic processes, provide production support to remote users, on call occasionally on weekends/holidays for critical process support and conversion testing.
 
   # Lhr Inc
 - company: Lewis Haste Recieveables Inc
