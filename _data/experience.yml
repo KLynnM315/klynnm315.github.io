@@ -3,19 +3,19 @@
 - company: SMax Technologies
   position: Software Engineer
   duration: 2020 &mdash; Present
-  summary: Worked on a small team developing features desktop and web applications.<ul class="resume-item-list"><li>Built Client Portal with React.js and GraphQL to manage client communications and settlement approvals.</li><li>Integrated LiveVox Dialer with SCollect using RESTful APIs for click-to-dial and end of day reporting functionality.</li><li>Develop features for debt collection software, SCollect using .NET.</li></ul>
+  summary: Worked on a small team developing features for a collections software and web application.<ul class="resume-item-list"><li>Built Client Portal with React.js and GraphQL to manage client communications and settlement approvals.</li><li>Integrated LiveVox Dialer with SCollect using RESTful APIs for click-to-dial and end of day reporting functionality.</li><li>Develop features for debt collection software, SCollect using .NET.</li></ul>
 
 # M &amp; T Bank
 - company: M &amp; T Bank
   position: Enterprise Data Consultant I
   duration: 2016 &mdash; 2020
-  summary: <ul class="resume-item-list"><li>Consulted on bring in mortgage origination data for BryterCX/ClickFox Customer Journeys.</li><li>Team member of both on Agile Sprint and Kanban teams with a goal of reverse engineering legacy SAS system and assist in mapping of data elements into views in the new Hadoop environment.</li><li>Created Python script for automated SQL testing for SIT and UAT testing.  Automated Testing script was adapted by development team and expanded on.</li><li></li></ul>
+  summary: Reverse engineered a legacy datamart and developed and mantained a solution for reporting the progress. <ul class="resume-item-list"><li>Maintain lineage and documentation on migration of a legacy system to Hadoop for about 5,000 data elements for bank-wide EPIC Marketing Project.</li><li>Team member of both on Agile Sprint and Kanban teams with a goal of reverse engineering legacy SAS system and assist in mapping of data elements into views in the new Hadoop environment.</li><li>Created Python script for automated SQL testing for SIT and UAT testing.  Automated Testing script was adapted by development team and expanded on.</li></ul>
 
 # Citi
 - company: Citi
   position: MIS Analyst 2 (Officer)
   duration: 2009 &mdash; 2016
-  summary: Consult and develop for software system conversion projects, train new employees, modify Access databases per ticket requests, analysis and optimize programmatic processes, investigate database issues, document process functionality and procedures, provide production support to remote users, on call occasionally on weekends/holidays for critical process support and conversion testing.
+  summary: Consult and develop for software system conversion projects, modify Access databases per ticket requests, analysis and optimize programmatic processes, provide production support to remote users, on call occasionally on weekends/holidays for critical process support and conversion testing.
 
   # Lhr Inc
 - company: Lewis Haste Recieveables Inc
