@@ -1,25 +1,25 @@
 # Jobs
-# Liaison International
-- company: Liaison International
-  position: Principle Software Engineer
-  duration: 2016 &mdash; Present
-  summary: Team leader responsible for mentoring junior developers.<ul class="resume-item-list"><li>Designed and implemented a content management system</li><li>Implemented many new features for a legacy Ruby on Rails application</li><li>Maintained an ETL written in Ruby</li></ul>
-
-# PhishMe
-- company: PhishMe
-  position: Senior Software Engineer
-  duration: 2015 &mdash; 2016
-  summary: Senior member of the development team maintaining and implementing new features in a legacy Ruby on Rails application.<ul class="resume-item-list"><li>Implemented features dealing with time zone based email delivery</li><li>Organized and led a book club for our engineering team</li></ul>
-
-
-# Liaison International
-- company: Liaison International
-  position: Senior Software Engineer
-  duration: 2012 &mdash; 2015
-  summary: Starting from a junior engineer position and progressed all the way to senior engineer.<ul class="resume-item-list"><li>Brought an antiquated test suite up to date, and setup a continuous integration server to enforce maintenance of the test suite</li><li>Created and enforced general coding style guidelines for the development team to follow</li><li>Responsible for upgrading our main Rails application from 3.1 to 4.X</li></ul>
-
-# Academic Software Plus
-- company: Academic Software Plus
+# SMax Technologies
+- company: SMax Technologies
   position: Software Engineer
-  duration: 2011 &mdash; 2012
-  summary: Maintained 2 different Ruby on Rails applications for Physical Therapy students
+  duration: 2020 &mdash; Present
+  summary: Worked on a small team developing features desktop and web applications.<ul class="resume-item-list"><li>Built Client Portal with React.js and GraphQL to manage client communications and settlement approvals.</li><li>Integrated LiveVox Dialer with SCollect using RESTful APIs for click-to-dial and end of day reporting functionality.</li><li>Develop features for debt collection software, SCollect using .NET.</li></ul>
+
+# M &amp; T Bank
+- company: M &amp; T Bank
+  position: Enterprise Data Consultant I
+  duration: 2016 &mdash; 2020
+  summary: <ul class="resume-item-list"><li>Consulted on bring in mortgage origination data for BryterCX/ClickFox Customer Journeys.</li><li>Team member of both on Agile Sprint and Kanban teams with a goal of reverse engineering legacy SAS system and assist in mapping of data elements into views in the new Hadoop environment.</li><li>Created Python script for automated SQL testing for SIT and UAT testing.  Automated Testing script was adapted by development team and expanded on.</li><li></li></ul>
+
+# Citi
+- company: Citi
+  position: MIS Analyst 2 (Officer)
+  duration: 2009 &mdash; 2016
+  summary: Consult and develop for software system conversion projects, train new employees, modify Access databases per ticket requests, analysis and optimize programmatic processes, investigate database issues, document process functionality and procedures, provide production support to remote users, on call occasionally on weekends/holidays for critical process support and conversion testing.
+
+  # Lhr Inc
+- company: Lewis Haste Recieveables Inc
+  position: Junior Programmer
+  duration: 2007 &mdash; 2009
+  summary: <ul class="resume-item-list"><li>Prepared $1 MM of critical new business to load into collections system.</li><li>Created a ASP .NET web app for HR to track applicant through hiring process.</li><li>Created a ASP .NET web app for Senior Management to track the profitablity of debt portfolios.</li></ul>
+
