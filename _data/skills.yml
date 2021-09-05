@@ -1,9 +1,9 @@
 # Skills
 - skill: Languages
-  description: Ruby, Java, Google Go, Python, JavaScript, Bash
+  description: Python, .NET, JavaScript(React, Node), C++
 
 - skill: Databases
-  description: PostgreSQL, Microsoft SQL Server, MySQL
+  description: Microsoft SQL Server, Teradata, Cloudera Hadoop, MySQL, Oracle
 
 - skill: Other
-  description: git(Github), NGINX, Jenkins, Vim, Redis, RabbitMQ
+  description: git(Github) 
