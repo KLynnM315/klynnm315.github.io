@@ -8,14 +8,20 @@
 # M &amp; T Bank
 - company: M &amp; T Bank
   position: Enterprise Data Consultant I
-  duration: 2016 &mdash; 2020
-  summary: Reverse engineered a legacy datamart and mantained a solution for reporting the progress. <ul class="resume-item-list"><li>Maintain lineage and documentation on migration of a legacy system to Hadoop for about 5,000 data elements for bank-wide EPIC Marketing Project.</li><li>Team member of both on Agile Sprint and Kanban teams with a goal of reverse engineering legacy SAS system and assist in mapping of data elements into views in the new Hadoop environment.</li><li>Created Python script for automated SQL testing for SIT and UAT testing.  Automated Testing script was adapted by development team and expanded on.</li></ul>
+  duration: 2017 &mdash; 2020
+  summary: Member of agile team tasked to reverse engineer a legacy datamart and mantained a solution for reporting the progress. <ul class="resume-item-list"><li>Maintain lineage and documentation on migration of a legacy system to Hadoop for about 5,000 data elements for bank-wide EPIC Marketing Project.</li><li>Team member of both on Agile Sprint and Kanban teams with a goal of reverse engineering legacy SAS system and assist in mapping of data elements into views in the new Hadoop environment.</li><li>Created Python script for automated SQL testing for SIT and UAT testing.  Automated Testing script was adapted by development team and expanded on.</li></ul>
+
+# TXMQ, Inc
+- company: TXMQ, Inc 
+  position: Operations Support Data Analyst (Contractor at M &amp; T Bank)
+  duration: 2016 &mdash; 2017
+  summary:  <ul class="resume-item-list"><li>Review requested updates to data warehouse from Business department and Federal Reserve for CCAR Reporting.</li><li>Analyze and present recommended solutions and impacts to Technology department, Performed impact analysis and research on the EPIC project. </li><li>Automated 1,500 Oracle SQL statement using BTEQ for monthly validations reducing process time by 10 hours per month.</li></ul>
 
 # Citi
 - company: Citi
   position: MIS Analyst 2 (Officer)
   duration: 2009 &mdash; 2016
-  summary: <ul class="resume-item-list"><li>Consult and developed for software system conversion projects</li><li>Implement changes Access databases per ticket requests</li><li>Provide production support to remote users, on call occasionally on weekends/holidays for critical process support and conversion testing.</li></ul>
+  summary: Senior developer and main support contact for internal controls, consisting of fifty employees.<ul class="resume-item-list"><li>Developed a Talend ETL job to process sub ledger files for 100,000 accounts that improved the overall efficiency by thirty percent.</li><li>Design, analysis, and implement new and existing solutions using VBA and SQL for collection and reformatting of reconcilement data via change request management system.</li><li>Created a follow-up logging system for database issues that effectively eliminated issues by a quarter percent.</li><li>Scheduled on call support during weekends and holidays for support of critical processes.</li><</ul>
 
   # Lhr Inc
 - company: Lewis Haste Recieveables Inc
