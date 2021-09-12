@@ -1,9 +1,9 @@
 # Skills
 - skill: Languages
   description: Python, .NET, JavaScript(React, Node), C++
-
+  
 - skill: Databases
-  description: Microsoft SQL Server, Teradata, Cloudera Hadoop, MySQL, Oracle
+  description: Microsoft SQL Server, Teradata, Cloudera Hadoop, MySQL, Oracle, GraphQL
 
 - skill: Other 
-  description: git(Github), Critical Thinking, Creative Problem Solving
+  description: git(Github), ETL, Critical Thinking, Creative Problem Solving
