@@ -1,31 +1,36 @@
 # Jobs
+# Freelance
+- company: Freelance
+  position: Software Engineer
+  duration: 2022 &mdash; Present
+  summary: Self-employeed working on projects for hire. <ul class="resume-item-list"><li>Built Flask process to pull cryptocurrency statistics from the Hive OS crypto mining API into monthly ROI reports, saving the user 168 hours annually.</li><li>Lead developer on in-progress NFT project, building NFT marketplace using Node, React, and Solidity contracts.  The NFT collection is to raise funds for forest clean up, reforestation, and humane animal relocation.</li></ul>
 # SMax Technologies
 - company: SMax Technologies
   position: Software Engineer
-  duration: 2020 &mdash; Present
-  summary: Worked on a small team developing features for a collections software and web application.<ul class="resume-item-list"><li>Built Client Portal with React.js and GraphQL to manage client communications and settlement approvals.</li><li>Integrated LiveVox Dialer with SCollect using RESTful APIs for click-to-dial and end of day reporting functionality.</li><li>Develop features for debt collection software, SCollect using .NET.</li></ul>
+  duration: 2020 &mdash; 2022
+  summary: A three person start-up developing features for collections software and a web application.<ul class="resume-item-list"><li>Created Client Portal website with React.js and GraphQL to manage client communications and settlement approvals, reducing settlement wait time by 33%.</li><li>Integrated LiveVox Dialer API with collections software for click-to-dial functionality, saving an average 1.76 hours per day per agent, $343,200 annually.</li><li>Created Python script to pull check image files for debt sale, reducing the overhead of the sale by 80 hours annually.</li><li>Bulit notification system overnight task manager for collections software using VB .NET and MySQL events.</li></ul>
 
 # M &amp; T Bank
 - company: M &amp; T Bank
   position: Enterprise Data Consultant I
   duration: 2017 &mdash; 2020
-  summary: Member of agile team tasked to reverse engineer a legacy datamart and mantained a solution for reporting the progress. <ul class="resume-item-list"><li>Maintain lineage and documentation on migration of a legacy system to Hadoop for about 5,000 data elements for bank-wide EPIC Marketing Project.</li><li>Team member of both on Agile Sprint and Kanban teams with a goal of reverse engineering legacy SAS system and assist in mapping of data elements into views in the new Hadoop environment.</li><li>Created Python script for automated SQL testing for SIT and UAT testing.  Automated Testing script was adapted by development team and expanded on.</li></ul>
+  summary: Agile Sprint and Kanban team member for EPIC marketing project, reverse engineered legacy SAS system and assisted in mapped 1,300 data elements into Cloudera Hadoop. <ul class="resume-item-list"><li>Maintained lineage and documentation on Hadoop migration of 4,000 data elements, used in a Tableau Dashboard for Product Owner and end-user documentation.</li><li>Sourced missing signature cards for 600,000 accounts, saving $6.6 million in FDIC fines.</li><li>Created automated unit testing Python script for warehouse, reducing testing by 18%.</li><li>Consulted on BryterCX Customer Journey integration of mortgage origination events.</li></ul>
 
 # TXMQ, Inc
-- company: TXMQ, Inc 
+- company: TxMQ, Inc.
   position: Operations Support Data Analyst (Contractor at M &amp; T Bank)
   duration: 2016 &mdash; 2017
-  summary:  <ul class="resume-item-list"><li>Review requested updates to data warehouse from Business department and Federal Reserve for CCAR Reporting.</li><li>Analyze and present recommended solutions and impacts to Technology department, Performed impact analysis and research on the EPIC project. </li><li>Automated 1,500 Oracle SQL statement using BTEQ for monthly validations reducing process time by 10 hours per month.</li></ul>
+  summary: Analytical support role for Teradata data warehouse. <ul class="resume-item-list"><li>Review requested updates to Teradata data warehouse from Finance department and Federal Reserve to stay compliant with CCAR Reporting.</li><li>Analyze and presented impacts to Technology on EPIC marketing project.</li><li>Automated 1,500 SQL monthly tests, reducing processing time by 120 hours annually.</li></ul>
 
 # Citi
 - company: Citi
   position: MIS Analyst 2 (Officer)
   duration: 2009 &mdash; 2016
-  summary: Senior developer and main support contact for internal controls, consisting of fifty employees.<ul class="resume-item-list"><li>Developed a Talend ETL job to process sub ledger files for 100,000 accounts that improved the overall efficiency by thirty percent.</li><li>Design, analysis, and implement new and existing solutions using VBA and SQL for collection and reformatting of reconcilement data via change request management system.</li><li>Created a follow-up logging system for database issues that effectively eliminated issues by a quarter percent.</li><li>Scheduled on call support during weekends and holidays for support of critical processes.</li></ul>
+  summary: Lead developer on MIS team for internal controls department.<ul class="resume-item-list"><li>Created Talend ETL job to process sub ledger files for 100,000 accounts, improving the process time by 30%.</li><li>Design, analysis, and implement solutions using VBA and SQL to load reconcilements into Frontier accounting system.</li><li>Created a follow-up logging system for database issues that effectively eliminated issues by a quarter percent.</li></ul>
 
   # Lhr Inc
 - company: Lewis Haste Recieveables Inc
-  position: Junior Programmer
+  position: Programmer
   duration: 2007 &mdash; 2009
-  summary: <ul class="resume-item-list"><li>Prepared $1 MM of critical new business to load into collections system.</li><li>Created a ASP .NET web app for HR to track applicant through hiring process.</li><li>Created a ASP .NET web app for Senior Management to track the profitablity of debt portfolios.</li></ul>
+  summary: <ul class="resume-item-list"><li>Prepared and loaded $1 million in new business annually into collections system, using Latitude software and C# scripting.</li><li>Bulit an ASP.NET website for HR to track applicants through hiring process.</li><li>Bulit an ASP.NET website for Senior management to track the profitability of debt portfolios.</li><li>Created a stored procedure to identify consumer credit counseling accounts, increasing settlements by 30%.</li></ul>
 
